@@ -1,0 +1,12 @@
+[
+    {
+        "ModificaciónID": 1,
+        "Descripción": "Impresión de logo a color",
+        "Costo": 2.00
+    },
+    {
+        "ModificaciónID": 2,
+        "Descripción": "Empaque especial",
+        "Costo": 1.50
+    }
+]

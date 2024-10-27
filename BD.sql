@@ -1,0 +1,1 @@
+ProductoIDNombreDescripciónPrecioPrecioSELECT * FROM losglobitosdb1.productos;

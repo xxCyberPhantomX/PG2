@@ -1,0 +1,14 @@
+[
+    {
+        "FacturaID": 1,
+        "PedidoID": 1,
+        "Fecha": "2024-10-21",
+        "MontoTotal": 220.00
+    },
+    {
+        "FacturaID": 2,
+        "PedidoID": 2,
+        "Fecha": "2024-10-22",
+        "MontoTotal": 27.50
+    }
+]

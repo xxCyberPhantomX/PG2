@@ -1,0 +1,14 @@
+[
+    {
+        "ProductoID": 1,
+        "CantidadEnStock": 50,
+        "EnFabricación": 20,
+        "Terminados": 30
+    },
+    {
+        "ProductoID": 2,
+        "CantidadEnStock": 100,
+        "EnFabricación": 50,
+        "Terminados": 50
+    }
+]

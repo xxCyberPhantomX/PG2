@@ -1,0 +1,16 @@
+[
+    {
+        "ClienteID": 1,
+        "Nombre": "Juan Pérez",
+        "Dirección": "Calle Falsa 123, Ciudad",
+        "Teléfono": "555-1234",
+        "Email": "juanp@example.com"
+    },
+    {
+        "ClienteID": 2,
+        "Nombre": "María López",
+        "Dirección": "Avenida Siempre Viva 456, Ciudad",
+        "Teléfono": "555-5678",
+        "Email": "marial@example.com"
+    }
+]

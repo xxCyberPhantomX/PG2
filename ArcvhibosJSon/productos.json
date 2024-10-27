@@ -1,0 +1,14 @@
+[
+    {
+        "ProductoID": 1,
+        "Nombre": "Sombrilla",
+        "Descripción": "Sombrilla personalizada con logo",
+        "Precio": 20.00
+    },
+    {
+        "ProductoID": 2,
+        "Nombre": "Taza",
+        "Descripción": "Taza de cerámica con logo",
+        "Precio": 5.00
+    }
+]

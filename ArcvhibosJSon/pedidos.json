@@ -1,0 +1,14 @@
+[
+    {
+        "PedidoID": 1,
+        "ClienteID": 1,
+        "Fecha": "2024-10-21",
+        "Estado": "En Proceso"
+    },
+    {
+        "PedidoID": 2,
+        "ClienteID": 2,
+        "Fecha": "2024-10-22",
+        "Estado": "Completado"
+    }
+]
